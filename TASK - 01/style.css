@@ -18,7 +18,7 @@ header{
     align-items:center;
     padding:20px 60px;
     background:transparent;
-    transition:0.4s;
+    transition:0.s;
 }
 
 header.scrolled{
